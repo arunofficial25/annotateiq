@@ -52,13 +52,14 @@ AnnotateIQ/
 │    ├── quality_reviews.sql
 │    ├── automation_risk.sql
 │    ├── workforce_impact.sql
-│    └── analysis_queries.sql  ← all 11 queries
+│    └── analysis_queries.sql     ← all 11 queries
 │   
 │
 ├── 📁 python/
 │   └── annotateiq_eda.py           # EDA + 5 visualizations + ML model
 │   └── annotateiq_excel.py         # Automated Excel workbook generation
 │   └── annotateiq_export.py        # CSV exports for Tableau
+│   └── config.example.py           # Config Your Database & Server
 │
 ├── 📁 outputs/
 │   ├── chart1_approval_by_education.png
@@ -75,8 +76,9 @@ AnnotateIQ/
 │   ├── 3_automation_risk.csv
 │   ├── 4_workforce_impact.csv
 │   └── 5_error_analysis.csv
-│    └── Dashboard.twb
+│   └── Dashboard.twb
 │
+├──.gitignore
 └── README.md
 ```
 
@@ -253,8 +255,9 @@ python python/annotateiq_export.py
 
 ## 👤 Author
 
-**Arun** — Data Analyst
-[github.com/arunofficial25](https://github.com/arunofficial25)
+**Arun**
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/arunofficial25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/arunofficial25)
 
 ---
 
