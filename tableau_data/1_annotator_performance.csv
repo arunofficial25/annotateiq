@@ -1,0 +1,20 @@
+name,age,education_level,region,employment_type,hourly_rate_inr,total_annotations,avg_time_per_task,avg_confidence,approval_rate_pct
+Amit Sharma,26,graduate,Delhi,full_time,180.0,2,10.4,0.92,100.0
+Anjali Singh,24,graduate,Maharashtra,part_time,160.0,1,18.2,0.72,0.0
+Arjun Nair,29,secondary,Kerala,contract,128.0,1,8.5,0.87,100.0
+Deepak Yadav,35,secondary,Rajasthan,full_time,140.0,1,19.5,0.89,100.0
+Fatima Shaikh,30,secondary,Maharashtra,contract,125.0,1,17.5,0.88,100.0
+Geeta Kumari,36,primary,Jharkhand,gig,88.0,1,16.8,0.51,0.0
+Harpreet Kaur,32,secondary,Punjab,full_time,135.0,1,11.0,0.9,100.0
+Kavya Reddy,25,graduate,Telangana,full_time,170.0,1,14.5,0.93,100.0
+Lakshmi Naidu,27,graduate,Andhra Pradesh,full_time,175.0,1,4.1,0.91,100.0
+Mohammed Rafiq,31,primary,Uttar Pradesh,gig,90.0,1,22.0,0.86,100.0
+Mohan Lal,45,illiterate,Uttar Pradesh,gig,72.0,1,6.8,0.48,0.0
+Nisha Verma,28,graduate,Uttar Pradesh,part_time,158.0,1,11.2,0.7,0.0
+Pooja Mishra,27,graduate,Madhya Pradesh,full_time,165.0,1,7.1,0.94,100.0
+Priya Patel,29,secondary,Gujarat,full_time,130.0,1,6.2,0.88,100.0
+Ramesh Gupta,42,illiterate,Bihar,gig,75.0,1,14.2,0.55,0.0
+Ravi Kumar,28,secondary,Punjab,full_time,120.0,1,9.5,0.88,100.0
+Santosh Patil,40,primary,Karnataka,contract,105.0,1,4.5,0.9,100.0
+Sunita Devi,34,primary,Bihar,contract,95.0,1,3.5,0.87,100.0
+Suresh Babu,38,primary,Tamil Nadu,gig,98.0,1,15.5,0.65,0.0

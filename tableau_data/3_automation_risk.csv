@@ -1,0 +1,14 @@
+task_type,complexity_level,client_industry,annotation_type,repetitiveness_score,complexity_score,rule_based_score,automation_risk_index,estimated_replacement_years
+bounding_box,medium,Robotics,image,0.85,0.4,0.78,0.82,2
+object_classification,low,Robotics,image,0.92,0.2,0.9,0.91,1
+sentiment_labeling,low,Healthcare,text,0.8,0.3,0.85,0.85,2
+entity_extraction,high,Healthcare,text,0.5,0.8,0.4,0.45,6
+action_recognition,high,Retail,video,0.6,0.75,0.5,0.52,5
+audio_transcription,medium,Telecom,audio,0.7,0.5,0.65,0.68,3
+intent_labeling,medium,Telecom,audio,0.75,0.45,0.7,0.72,3
+polygon_annotation,high,Agriculture,image,0.55,0.82,0.43,0.47,7
+safety_violation_tag,medium,Manufacturing,video,0.78,0.48,0.72,0.74,3
+clause_classification,medium,Legal,text,0.65,0.6,0.58,0.61,4
+vehicle_detection,low,Smart Cities,video,0.88,0.25,0.85,0.87,1
+fraud_labeling,high,Finance,text,0.58,0.78,0.45,0.49,6
+gesture_tagging,high,Robotics,image,0.48,0.85,0.38,0.42,8

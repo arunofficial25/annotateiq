@@ -1,0 +1,11 @@
+economic_region,avg_worker_literacy,retraining_feasibility,displacement_risk,jobs_currently_needed,projected_jobs_5yr,jobs_at_risk,project_name,client_industry
+North India,low,low,critical,120,30,90,WareBot Vision,Robotics
+South India,high,high,medium,80,40,40,MediScan NLP,Healthcare
+West India,medium,medium,high,150,50,100,RetailEye Analytics,Retail
+North India,medium,medium,medium,60,35,25,VoiceBot Hindi,Telecom
+Central India,low,low,high,200,80,120,AgriDrone Detect,Agriculture
+West India,low,low,critical,180,40,140,FactoryGuard Safety,Manufacturing
+South India,high,high,low,50,30,20,LegalDoc Classifier,Legal
+North India,medium,low,critical,100,25,75,TrafficFlow AI,Smart Cities
+West India,high,high,medium,70,45,25,FraudShield Banking,Finance
+North India,low,low,critical,90,20,70,RoboArm Gesture,Robotics

@@ -1,0 +1,21 @@
+name,education_level,region,task_type,complexity_level,review_result,error_type,status,confidence_score,time_taken_minutes
+Ravi Kumar,secondary,Punjab,bounding_box,medium,pass,,approved,0.88,9.5
+Amit Sharma,graduate,Delhi,bounding_box,medium,pass,,approved,0.92,7.8
+Ramesh Gupta,illiterate,Bihar,bounding_box,medium,fail,wrong_label,rejected,0.55,14.2
+Sunita Devi,primary,Bihar,object_classification,low,pass,,approved,0.87,3.5
+Lakshmi Naidu,graduate,Andhra Pradesh,sentiment_labeling,low,pass,,approved,0.91,4.1
+Mohan Lal,illiterate,Uttar Pradesh,sentiment_labeling,low,fail,wrong_label,rejected,0.48,6.8
+Kavya Reddy,graduate,Telangana,entity_extraction,high,pass,,approved,0.93,14.5
+Anjali Singh,graduate,Maharashtra,entity_extraction,high,fail,missed_entity,flagged,0.72,18.2
+Mohammed Rafiq,primary,Uttar Pradesh,action_recognition,high,pass,,approved,0.86,22.0
+Harpreet Kaur,secondary,Punjab,audio_transcription,medium,pass,,approved,0.9,11.0
+Suresh Babu,primary,Tamil Nadu,audio_transcription,medium,fail,boundary_error,flagged,0.65,15.5
+Priya Patel,secondary,Gujarat,intent_labeling,medium,pass,,approved,0.88,6.2
+Deepak Yadav,secondary,Rajasthan,polygon_annotation,high,pass,,approved,0.89,19.5
+Arjun Nair,secondary,Kerala,safety_violation_tag,medium,pass,,approved,0.87,8.5
+Nisha Verma,graduate,Uttar Pradesh,safety_violation_tag,medium,needs_revision,boundary_error,flagged,0.7,11.2
+Pooja Mishra,graduate,Madhya Pradesh,clause_classification,medium,pass,,approved,0.94,7.1
+Santosh Patil,primary,Karnataka,vehicle_detection,low,pass,,approved,0.9,4.5
+Amit Sharma,graduate,Delhi,fraud_labeling,high,pass,,approved,0.92,13.0
+Geeta Kumari,primary,Jharkhand,fraud_labeling,high,fail,wrong_label,rejected,0.51,16.8
+Fatima Shaikh,secondary,Maharashtra,gesture_tagging,high,pass,,approved,0.88,17.5

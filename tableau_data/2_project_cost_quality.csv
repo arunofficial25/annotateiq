@@ -1,0 +1,11 @@
+project_name,annotation_type,client_industry,total_budget_inr,total_annotations,cost_per_annotation,poor_quality_count,poor_quality_pct,wasted_budget_inr
+AgriDrone Detect,image,Agriculture,1100000.0,1,1100000.0,0,0.0,0.0
+FactoryGuard Safety,video,Manufacturing,1750000.0,2,875000.0,1,50.0,875000.0
+FraudShield Banking,text,Finance,850000.0,2,425000.0,1,50.0,425000.0
+LegalDoc Classifier,text,Legal,700000.0,1,700000.0,0,0.0,0.0
+MediScan NLP,text,Healthcare,950000.0,4,237500.0,2,50.0,475000.0
+RetailEye Analytics,video,Retail,1500000.0,1,1500000.0,0,0.0,0.0
+RoboArm Gesture,image,Robotics,1300000.0,1,1300000.0,0,0.0,0.0
+TrafficFlow AI,video,Smart Cities,2000000.0,1,2000000.0,0,0.0,0.0
+VoiceBot Hindi,audio,Telecom,800000.0,3,266666.67,1,33.33,266666.67
+WareBot Vision,image,Robotics,1200000.0,4,300000.0,1,25.0,300000.0
